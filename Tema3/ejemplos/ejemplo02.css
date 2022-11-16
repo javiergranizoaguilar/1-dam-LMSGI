@@ -1,0 +1,37 @@
+h1.a{
+    color: rgb(6, 183, 110);
+    }
+h1.b{
+    color: rgb(24, 8, 143);
+}
+*{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: 'Courier New'
+}
+a.rojo{
+    color: red;
+}
+a.amarillo{
+    color: orange;
+}
+I.azul{
+    color: blue;
+}
+a.morado{
+    color:rgb(87, 0, 168);
+}
+a.verde{
+    color: green;
+}
+a.azul{
+    color: blue;
+}
+p.verdec{
+    color: lawngreen;
+}
+td{
+    border-style:solid;
+    padding: 0px;
+    border-spacing: 0pt;
+    font-weight: bold;
+}
