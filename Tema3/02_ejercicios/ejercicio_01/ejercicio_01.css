@@ -4,9 +4,11 @@
 }
 .centrado{
     text-align: center;
+    font-size: 50px;
 }
 img{
     height: 50px;
+    background-color: blue;
 }
 td.redb{
     background-color: red;
@@ -29,4 +31,7 @@ td.redb{
 }
 table{
     margin: auto
+}
+.colspan{
+    background-color: blue;
 }
