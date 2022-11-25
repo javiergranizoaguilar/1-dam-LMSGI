@@ -1,0 +1,32 @@
+.borders{
+    border: solid;
+    border-collapse: collapse;
+}
+.centrado{
+    text-align: center;
+}
+img{
+    height: 50px;
+}
+td.redb{
+    background-color: red;
+    color: white;
+}
+#centro{
+    text-align: center;
+}
+.bgG{
+    background-color: grey;
+    font-size: 2cm;
+}
+#red{
+    color: red;
+}
+#padd{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: yellow;
+}
+table{
+    margin: auto
+}
