@@ -21,9 +21,6 @@ td.redb{
     background-color: grey;
     font-size: 2cm;
 }
-#red{
-    color: red;
-}
 #padd{
     padding-top: 20px;
     padding-bottom: 20px;
@@ -34,4 +31,15 @@ table{
 }
 .colspan{
     background-color: blue;
+}
+#bold{
+    font-weight: bold;
+}
+td{
+    border: solid;
+    border-collapse: collapse;
+    border-color: black;
+}
+#red{
+    color: red;
 }
