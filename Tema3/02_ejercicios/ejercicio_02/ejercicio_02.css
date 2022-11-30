@@ -12,28 +12,28 @@ tr:first-child{
     font-weight: bold;
 }
 tr:first-child > td::first-letter{
-    font-size:xx-large;
+    font-size:x-large;
 }
 tr:nth-child(2){
-    font-size: xx-large;
+    font-size: x-large;
 }
 tr:nth-child(3){
-    font-size: xx-large;
+    font-size: x-large;
 }
 tr:nth-child(4){
-    font-size: xx-large;
+    font-size: x-large;
 }
 tr:nth-child(5){
-    font-size: xx-large;
+    font-size: x-large;
 }
 tr:nth-child(6){
-    font-size: xx-large;
+    font-size: x-large;
 }
 tr:nth-child(7){
-    font-size: xx-large;
+    font-size: x-large;
 }
 tr:nth-child(8){
-    font-size: xx-large;
+    font-size: x-large;
 }
 tr>td:first-child{
     font-size: medium;
@@ -44,6 +44,29 @@ tr>td:first-child{
 .green{
     background-color: green;
 }
-tr:last-child{
-    
+tr>td:last-child:hover{
+    font-size: xx-large;
+}
+input{
+    width: 1000px;
+    height: 200px;
+    background-color: pink;
+}
+button{
+    width: 100px;
+    height: 100px;
+}
+input:focus{
+    background-color: yellow;
+}
+a:link{
+    color: green;
+    text-decoration: none;
+}
+a:visited{
+    text-decoration: none;
+    color: red;
+}
+table{
+    border-style: solid;
 }
