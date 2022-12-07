@@ -1,0 +1,63 @@
+*{
+    background-color:steelblue;
+}
+header{
+    text-align: center;
+    font-size: 100px;
+}
+nav{
+    text-align: center;
+}
+body{
+    text-align: right;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    border-spacing: 50px;
+    border-collapse: separate;
+}
+.gran{
+    font-size: 50px;
+}
+.a:hover{
+    color:greenyellow;
+}
+.a{
+    color:fuchsia;
+}
+.cen{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+textarea{
+    background-image: url(fhblood3.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    font-weight: bold;
+    color: red;
+}
+textarea:focus{
+    background-image: none;
+    background-color:tomato;
+}
+button{
+    background-color: crimson;
+}
+
+.lado{
+    height: 900px;
+    width: 600px;
+}
+.img{
+    background-image: url(phblood2);
+}
+aside{
+    float: left;
+}
+.clean{
+    text-decoration: none;
+    color: darkgoldenrod;
+}
