@@ -1,0 +1,54 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: 'Gill Sans';
+}
+body{
+    background-image: url(./opcionA/images-ejercicio1/fondo_morado.jpg);
+    background-repeat: no-repeat;
+    background-size: 1500px;
+    text-align: center;
+}
+.rosita{
+    background-color: antiquewhite;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 80px;
+}
+button{
+    border-radius: 10px;
+    background-color: orange;
+    width: 200px;
+    height: 50px;
+}
+.negrita{
+    font-weight: bold;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: xx-large;
+}
+.blanco{
+    color: white;
+}
+img{
+    width: 20px;
+    height: 20px;
+}
+input{
+    border-style: none;
+}
+.blancoo{
+    background-color: white;
+    margin: auto;
+    background-size:cover;
+    border-radius: 20px;
+}
+.newt{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.new{
+    color: white;
+}

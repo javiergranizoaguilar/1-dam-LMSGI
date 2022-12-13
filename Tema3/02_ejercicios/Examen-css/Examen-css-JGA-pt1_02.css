@@ -1,0 +1,63 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: 'Gill Sans';
+}
+body{
+    background-image: url(./opcionA/images-ejercicio1/fondo_login.jpg);
+    background-repeat: no-repeat;
+    background-size: 2100px;
+    text-align: center;
+
+}
+.table{
+    background-color: antiquewhite;
+    border-radius: 20px 20px 0px 0px;
+    margin-left: auto;
+    margin-top: 60px;
+    margin-right: 60px;
+}
+button{
+    border-radius: 10px;
+    background-color: orange;
+    width: 200px;
+    height: 50px;
+}
+.negrita{
+    font-weight: bold;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: xx-large;
+}
+.blanco{
+    color: white;
+}
+img{
+    width: 20px;
+    height: 20px;
+}
+#a{
+    border-radius: 30px;
+    border-style: none;
+    width:200px;
+    height: 50px;
+}
+.blancoo{
+    margin: auto;
+}
+.newt{
+    text-align: center;
+}
+.new{
+    color: rgb(132, 169, 249);
+    margin-left: 178px;
+    margin-right: 100px;
+    text-align: center;
+}
+.tb{
+    background-color: antiquewhite;
+    border-radius: 0px 0px 20px 20px;
+    margin-left: auto;
+    margin-right: 60px;
+}

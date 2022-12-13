@@ -1,0 +1,75 @@
+header{
+    text-align: center;
+    background-color: gray;
+    font-weight: bold;
+}
+#naranja{
+    color: orange;
+}
+#azul{
+    color: blue;
+}
+nav{
+    font-weight: bold;
+    background-color:rgb(71, 71, 64);
+}
+#cabeza{
+    height:500px;
+    width:1470px;
+}
+a:checked{
+    color: aqua
+}
+a:link{
+    color: aqua;
+}
+#centro{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+}
+table{
+    width:auto;
+    height: auto;
+    margin-left:auto;
+    margin-right: auto;
+    text-align: center;
+}
+.img{
+    width: 400px;
+    height: 400px;
+}
+#gris{
+    background-color: grey;
+}
+#img{
+    background-image: url(./opcionA/images-ejercicio2/fondo.jpg);
+    background-position:center;
+    
+}
+#margin{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: black;
+    color: white;
+    width: 120px;
+    height: 30px;
+}
+#peke{
+    width: 400px;
+    height: 500px;
+}
+footer{
+    text-align: center;
+    background-color:black;
+    color: white;
+}
+section{
+    text-align: center;
+}
+article{
+    text-align: center;
+}
+#margen{
+    margin-top: 40px;
+}
