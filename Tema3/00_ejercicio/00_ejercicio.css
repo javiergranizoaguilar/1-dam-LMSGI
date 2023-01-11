@@ -14,10 +14,17 @@ body{
 #hard-skills{
     background-image: url(pdhs1.png);
     background-repeat: no-repeat;
-    background-size:105%;
+    background-size:cover;
+    font-size: xx-large;
+}
+#hard-skills2{
+    font-size: x-large;
 }
 #soft-skills{
-    
+    font-size: xx-large;
+}
+#soft-skills2{
+    font-size: x-large;
 }
 #email{
     text-align: center;
