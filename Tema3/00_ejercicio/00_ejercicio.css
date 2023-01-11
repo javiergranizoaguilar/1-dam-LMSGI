@@ -38,6 +38,7 @@ body{
 #hsimg{
     width:400px ;
     height:300px ;
+    border-radius: 25%;
 }
 #ssimg{
     width:300px ;
