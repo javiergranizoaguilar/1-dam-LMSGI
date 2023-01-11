@@ -16,12 +16,15 @@ body{
     background-repeat: no-repeat;
     background-size:cover;
     font-size: xx-large;
+    border-style:double;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 #hard-skills2{
     font-size: x-large;
 }
 #soft-skills{
     font-size: xx-large;
+    font-family:'Times New Roman', Times, serif;
 }
 #soft-skills2{
     font-size: x-large;
