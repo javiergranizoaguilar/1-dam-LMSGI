@@ -1,0 +1,21 @@
+body{
+    background-image: url(http://www.tutorialesprogramacionya.com/imagenes/foto1.jpg);
+}
+#a{
+    display:block;
+    margin: auto;
+    width: 30px;
+    height: 30px;
+}
+#b{
+    display:block;
+    margin-left: auto;
+    width: 70px;
+    height: 70px;
+}
+#c{
+    display:block;
+    margin-right: auto;
+    width: 100px;
+    height: 100px;
+}
