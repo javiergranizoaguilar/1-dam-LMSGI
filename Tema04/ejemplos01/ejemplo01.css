@@ -80,7 +80,7 @@ h1.an {
 section.an {
     width: 100%;
     height: 100vh;
-    display: flex;
+    display: block;
     justify-content: center;
     align-items: center;
 
@@ -89,6 +89,14 @@ section.an {
 h2.an {
     font-size: 4em;
     color: white;
+    text-align: center;
+    margin-top: 5%;
+}
+.an p{
+    color: rgb(231, 8, 197);
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 3%;
 }
 
 .bt input {
@@ -150,4 +158,7 @@ img{
 }
 #dos:hover{
     display: none;
+}
+#tres{
+    animation: 3s rotate linear infinite;
 }
