@@ -1,0 +1,76 @@
+body{
+    background-image: url(https://www.zumosecologicos.com/blog/wp-content/uploads/2017/06/abonos-ecologicos.jpg);
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 1%;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+    
+}
+body>section{
+    background-color:rgb(255, 0, 0);
+    border-color: black;
+    border-style: solid;
+}
+nav{
+    text-align: center;
+    margin-top: 1%;
+}
+nav>button{
+    margin-left: 1%;
+    margin-right: 1%;
+}
+header>section{
+    background-image: url(https://www.euroresidentes.com/estilo-de-vida/vida-rural/wp-content/uploads/sites/9/2014/08/foto-rural-arco-iris11.jpg);
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: 100%;
+}
+#si{
+    display: flex;
+}
+#imgt{
+    width: 3%;
+    height: 3%;
+    margin-left: 70%;
+    margin-top: 1%;
+}
+#imgr{
+    width: 10%;
+    height: 10%;
+    margin-top: 2%;
+}
+#imge{
+    width: 5%;
+    height: 5%;
+    margin-top: 1%;
+}
+#centrari{
+    color: rgb(160, 80, 4);
+    text-align: center;
+    font-weight:bolder;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-bottom: 20%;
+    -webkit-text-stroke: 1px rgb(106, 41, 4);
+}
+#centrar{
+    color: rgb(3, 106, 18);
+    text-align: center;
+    font-weight:bolder;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    -webkit-text-stroke: 1px rgb(20, 79, 29);
+}
+button{
+    border-style: none;
+    border-radius: 15px;
+    background:linear-gradient(180deg, #c7812c 0%, #68470a 100%);
+    font-weight: bolder;
+}
+footer>p{
+    background-color: #000;
+    margin-bottom: initial;
+    color: white;
+}
