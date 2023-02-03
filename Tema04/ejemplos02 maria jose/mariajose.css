@@ -9,7 +9,7 @@ body{
     
 }
 body>section{
-    background-color:rgb(255, 0, 0);
+    
     border-color: black;
     border-style: solid;
 }
@@ -25,7 +25,12 @@ header>section{
     background-image: url(https://www.euroresidentes.com/estilo-de-vida/vida-rural/wp-content/uploads/sites/9/2014/08/foto-rural-arco-iris11.jpg);
     background-repeat: no-repeat;
     background-position: 50%;
-    background-size: 100%;
+    background-size: cover;
+}
+main>p{
+    color:transparent;
+    font-size: 150%;
+    font-weight: bolder;
 }
 #si{
     display: flex;
@@ -87,4 +92,20 @@ footer>p{
 footer{
     display: inline;
 }
-
+@keyframes latidos {
+    from { transform: none; }
+    50% { transform: scale(1.05); }
+    to { transform: none; }
+}
+/* En la clase corazon vamos a llamar latidos en la animación  */
+.corazon {
+	display: inline-block;
+	animation: latidos .5s infinite;
+	transform-origin: center;
+}
+main:hover{
+    background-color: black;
+}
+main>p:hover{
+    color: white;
+}
