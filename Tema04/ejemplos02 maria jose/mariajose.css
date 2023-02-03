@@ -50,18 +50,26 @@ header>section{
     color: rgb(160, 80, 4);
     text-align: center;
     font-weight:bolder;
-    font-size: xx-large;
+    font-size: 250%;
     font-family: Georgia, 'Times New Roman', Times, serif;
     padding-bottom: 20%;
-    -webkit-text-stroke: 1px rgb(106, 41, 4);
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
 }
 #centrar{
     color: rgb(3, 106, 18);
     text-align: center;
     font-weight:bolder;
-    font-size: xx-large;
+    font-size: 250%;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    -webkit-text-stroke: 1px rgb(20, 79, 29);
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+}
+#centrar0{
+    color: rgb(3, 106, 18);
+    text-align: center;
+    font-weight:bolder;
+    font-size: 150%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
 }
 button{
     border-style: none;
@@ -72,5 +80,13 @@ button{
 footer>p{
     background-color: #000;
     margin-bottom: initial;
+    margin-top: initial;
     color: white;
+    text-align: center;
+}
+footer{
+    display: inline;
+}
+#dere{
+    
 }
