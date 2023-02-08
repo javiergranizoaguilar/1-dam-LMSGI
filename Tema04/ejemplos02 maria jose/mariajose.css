@@ -5,7 +5,6 @@ nav{
 nav>button{
     margin-left: 1%;
     margin-right: 1%;
-    width: 10%;
 }
 #imgd{
     background-image: url(https://www.euroresidentes.com/estilo-de-vida/vida-rural/wp-content/uploads/sites/9/2014/08/foto-rural-arco-iris11.jpg);
@@ -41,7 +40,7 @@ main>p{
     margin-top: 1%;
 }
 #centrari{
-    color: rgb(160, 80, 4);
+    color: rgb(89, 45, 4);
     text-align: center;
     font-weight:bolder;
     font-size: 250%;
@@ -72,7 +71,7 @@ button{
     font-weight: bolder;
 }
 footer>p{
-    background-color: #000;
+    background-color: #452306;
     margin-bottom: initial;
     margin-top: initial;
     color: white;
@@ -107,4 +106,9 @@ main>section>p{
     text-align: center;
     color: #E9EFC0;
 }
-body{background: #4E944F;}
+body{background: #4e944f;}
+#tama{
+    height:400px ;
+    width: 100%;
+    
+}
