@@ -67,7 +67,7 @@ main>p{
 button{
     border-style: none;
     border-radius: 15px;
-    background:linear-gradient(180deg, #c7812c 0%, #68470a 100%);
+    background:linear-gradient(180deg, #9dd49d 0%, #405541 100%);
     font-weight: bolder;
 }
 footer>p{
@@ -105,10 +105,14 @@ main>section>img{
 main>section>p{
     text-align: center;
     color: #E9EFC0;
+    font-size:150%;
 }
 body{background: #4e944f;}
 #tama{
     height:400px ;
     width: 100%;
     
+}
+*{
+    font-family: 'EB Garamond', serif;
 }
