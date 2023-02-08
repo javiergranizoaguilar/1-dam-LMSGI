@@ -85,7 +85,7 @@ footer{
     50% { transform: scale(1.05); }
     to { transform: none; }
 }
-.corazon {
+.latir {
 	display: inline-block;
 	animation: latidos .5s infinite;
 	transform-origin: center;
