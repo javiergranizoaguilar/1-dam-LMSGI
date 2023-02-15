@@ -65,7 +65,7 @@ section>div>img{
     z-index:3;
     position:absolute;
     left: 38%;
-    top: 27%;
+    top: 25%;
     width: 23%;
 }
 #index3:hover{
@@ -75,22 +75,13 @@ section>div>img{
     z-index:2;
     position:absolute;
     left: 38%;
-    top: 38%;
+    top: 35%;
     width: 23%;
 }
 #index4:hover{
     z-index: 7;
 }
-#index5{
-    z-index:1;
-    position:absolute;
-    left: 38%;
-    top: 60%;
-    width: 23%;
-}
-#index5:hover{
-    z-index: 6;
-}
+
 h1{
     text-align: center;
 }
