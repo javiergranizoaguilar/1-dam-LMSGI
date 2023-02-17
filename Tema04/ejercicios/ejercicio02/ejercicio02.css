@@ -1,25 +1,92 @@
 *{
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(1, 184, 216);
+}
+footer{
+    background-color:  rgb(1, 216, 191);
+    float: left;
+    margin-top:10px ;
+    width: 100%;
     margin: 0px;
 }
-article{
 
-    background-color: red;
+a{
+    text-decoration: none;
+}
+
+header{
+    background-color:rgb(1, 184, 216) ;
+}
+
+header>section>nav{
+    display: flex;
+    background-color:rgb(47, 255, 0);
+    justify-content:center ;
+}
+
+p{
+    margin-top: 0px;
+    text-align: center;
+    font-size:120%;
+}
+
+ul{
+    font-size: x-large;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+article>img{
+    height: 50%;
+    width: 50%;
+    margin-left: 25%;
+}
+
+.dpflx{
+    display: flex;
+    justify-content: center;
+}
+
+.dpflx>img{
+    height: 6%;
+    width: 6%;
+
+}
+
+.articlea{
+    background-color: rgb(7, 90, 180);
     float: left;
     height: 300px;
     margin-left: 5%;
     margin-top: 2%;
+    margin-bottom: 2%;
     width: 20%;
+    border-radius: 10%;
+    border-style: inset;
 }
-footer{
-    background-color: blue;
+
+.articleb{
+    background-color:rgb(1, 97, 96);
     float: left;
-    height: 290px;
+    height: 350px;
     margin-left: 5%;
-    margin-top:10px ;
-    width: 70%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    width: 20%;
+    border-radius: 10%;
+    border-style:outset;
 }
+
 .container{
     background-color: lightgreen;
     margin: 20px auto;
@@ -27,10 +94,16 @@ footer{
     overflow-y: auto;
     width: 90%;
 }
+
 .sidebar{
-    background-color: yellow;
+    background-color: rgb(1, 216, 191);
     float: left;
     width: 25%;
-    height: 600px;
+    height: 850px;
     margin-top: 2%;
+}
+
+#stiky{
+    position: sticky;
+    top: 0px;
 }

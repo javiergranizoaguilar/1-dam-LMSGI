@@ -1,0 +1,15 @@
+.container{
+    background-color: lightgrey;
+    border: 1px solid black;
+    display: flex;
+    flex-direction:column-reverse;
+}
+#primera{
+    background-color: lightskyblue;
+}
+#segunda{
+    background-color: lightsalmon;
+}
+#tercera{
+    background-color: lightgreen;
+}

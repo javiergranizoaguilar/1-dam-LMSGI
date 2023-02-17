@@ -1,0 +1,16 @@
+.container{
+    background-color: lightgrey;
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+}
+#primera{
+    background-color: lightskyblue;
+    width: 100%;
+}
+#segunda{
+    background-color: lightsalmon;
+}
+#tercera{
+    background-color: lightgreen;
+}
