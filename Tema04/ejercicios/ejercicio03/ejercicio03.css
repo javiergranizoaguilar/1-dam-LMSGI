@@ -12,6 +12,7 @@ article{
     flex-direction:column-reverse;
     justify-content:space-around;
     border-style: solid;
+    border-radius: 10%;
     margin-top: 0.5%;
     margin-bottom: 0.5%;
 }
