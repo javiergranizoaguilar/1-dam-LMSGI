@@ -133,6 +133,9 @@ body {
     background-image: url(https://cdn.wallapop.com/images/10420/9j/no/__/c10420p577213176/i1770571465.jpg?pictureSize=W320);
     opacity: 0.3;
 }
+#e:hover{
+    color: #000000;
+}
 footer{
     text-align: center;
 }
